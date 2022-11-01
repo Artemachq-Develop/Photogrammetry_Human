@@ -1,0 +1,125 @@
+Program called with the following parameters:
+ * contrastFiltering =  Unknown Type "enum aliceVision::feature::EFeatureConstrastFiltering"
+ * describerPreset =  Unknown Type "enum aliceVision::feature::EImageDescriberPreset"
+ * describerQuality =  Unknown Type "enum aliceVision::feature::EFeatureQuality"
+ * describerTypes = "sift"
+ * forceCpuExtraction = 1
+ * gridFiltering = 1
+ * input = "D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/CameraInit/0b64dc80eb9e12da8319e899ebfc0b8fed13dc09/cameraInit.sfm"
+ * maxNbFeatures = 0 (default)
+ * maxThreads = 0
+ * output = "D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/FeatureExtraction/1c8768372316ef13c65aadb59bed9dd70c492f0d"
+ * rangeSize = 40
+ * rangeStart = 0
+ * relativePeakThreshold = 0.02 (default)
+ * verboseLevel =  Unknown Type "enum aliceVision::system::EVerboseLevel"
+
+[06:13:41.543175][info] CUDA-Enabled GPU.
+Device information:
+	- id:                      0
+	- name:                    NVIDIA GeForce GTX 1060 6GB
+	- compute capability:      6.1
+	- total device memory:     6144 MB 
+	- device memory available: 5222 MB 
+	- per-block shared memory: 49152
+	- warp size:               32
+	- max threads per block:   1024
+	- max threads per SM(X):   2048
+	- max block sizes:         {1024,1024,64}
+	- max grid sizes:          {2147483647,65535,65535}
+	- max 2D array texture:    {131072,65536}
+	- max 3D array texture:    {16384,16384,16384}
+	- max 2D linear texture:   {131072,65000,2097120}
+	- max 2D layered texture:  {32768,32768,2048}
+	- number of SM(x)s:        10
+	- registers per SM(x):     65536
+	- registers per block:     65536
+	- concurrent kernels:      yes
+	- mapping host memory:     yes
+	- unified addressing:      yes
+	- texture alignment:       512 byte
+	- pitch alignment:         32 byte
+0
+[06:13:41.654139][info] Supported CUDA-Enabled GPU detected.
+[06:13:41.654139][info] Job max memory consumption for one image: 642 MB
+[06:13:41.654139][info] Memory information: 
+	- Total RAM:     15.9302 GB
+	- Free RAM:      9.44532 GB
+	- Available RAM: 9.44532 GB
+	- Total swap:    131072 GB
+	- Free swap:     131035 GB
+[06:13:41.654139][info] Max number of threads regarding memory usage: 13
+[06:13:41.654139][info] # threads for extraction: 4
+[06:13:41.726117][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/4.jpg' [cpu]
+[06:13:41.730116][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/31.jpg' [cpu]
+[06:13:41.734113][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/28.jpg' [cpu]
+[06:13:41.736112][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/2.jpg' [cpu]
+[06:13:47.705327][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/31.jpg'
+[06:13:47.849280][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/20.jpg' [cpu]
+[06:13:47.934256][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/4.jpg'
+[06:13:48.055214][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/8.jpg' [cpu]
+[06:13:48.307133][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/2.jpg'
+[06:13:48.434092][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/13.jpg' [cpu]
+[06:13:49.163464][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/28.jpg'
+[06:13:49.221444][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/3.jpg' [cpu]
+[06:13:54.893210][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/8.jpg'
+[06:13:54.904206][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/20.jpg'
+[06:13:54.949193][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/24.jpg' [cpu]
+[06:13:54.967187][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/7.jpg' [cpu]
+[06:13:54.974184][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/13.jpg'
+[06:13:55.049160][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/25.jpg' [cpu]
+[06:13:55.650966][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/3.jpg'
+[06:13:55.704949][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/18.jpg' [cpu]
+[06:14:01.277365][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/24.jpg'
+[06:14:01.345364][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/29.jpg' [cpu]
+[06:14:01.425334][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/7.jpg'
+[06:14:01.491313][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/25.jpg'
+[06:14:01.550294][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/30.jpg' [cpu]
+[06:14:01.568289][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/35.jpg' [cpu]
+[06:14:02.623267][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/18.jpg'
+[06:14:02.711274][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/34.jpg' [cpu]
+[06:14:10.292267][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/35.jpg'
+[06:14:10.345250][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/33.jpg' [cpu]
+[06:14:10.350248][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/29.jpg'
+[06:14:10.366244][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/30.jpg'
+[06:14:10.409281][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/26.jpg' [cpu]
+[06:14:10.449265][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/16.jpg' [cpu]
+[06:14:11.333262][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/34.jpg'
+[06:14:11.459269][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/11.jpg' [cpu]
+[06:14:17.007339][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/16.jpg'
+[06:14:17.036330][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/33.jpg'
+[06:14:17.067321][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/1.jpg' [cpu]
+[06:14:17.108308][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/14.jpg' [cpu]
+[06:14:17.188282][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/26.jpg'
+[06:14:17.250267][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/27.jpg' [cpu]
+[06:14:17.983257][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/11.jpg'
+[06:14:18.037243][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/6.jpg' [cpu]
+[06:14:22.643243][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/14.jpg'
+[06:14:22.744227][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/15.jpg' [cpu]
+[06:14:22.934279][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/1.jpg'
+[06:14:22.999260][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/10.jpg' [cpu]
+[06:14:23.209222][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/27.jpg'
+[06:14:23.292233][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/22.jpg' [cpu]
+[06:14:23.620216][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/6.jpg'
+[06:14:23.677734][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/21.jpg' [cpu]
+[06:14:28.501208][info]       19914 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/15.jpg'
+[06:14:28.570231][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/5.jpg' [cpu]
+[06:14:29.409272][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/10.jpg'
+[06:14:29.479321][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/17.jpg' [cpu]
+[06:14:29.616274][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/22.jpg'
+[06:14:29.798217][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/23.jpg' [cpu]
+[06:14:30.429246][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/21.jpg'
+[06:14:30.505222][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/9.jpg' [cpu]
+[06:14:36.460189][info]       19876 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/5.jpg'
+[06:14:36.630195][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/36.jpg' [cpu]
+[06:14:37.528200][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/17.jpg'
+[06:14:37.658258][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/32.jpg' [cpu]
+[06:14:37.775220][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/23.jpg'
+[06:14:37.852218][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/19.jpg' [cpu]
+[06:14:38.685199][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/9.jpg'
+[06:14:38.771191][info] Extracting sift features from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/12.jpg' [cpu]
+[06:14:44.252259][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/36.jpg'
+[06:14:44.728249][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/32.jpg'
+[06:14:45.162305][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/19.jpg'
+[06:14:45.491310][info]       20000 sift features extracted from view 'D:/Develop/Model/Photogrammetry/AllPhotos/PhotoModel/12.jpg'
+[06:14:45.492310][info] Task done in (s): 63.838000

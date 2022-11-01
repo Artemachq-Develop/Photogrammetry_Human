@@ -1,0 +1,645 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "views": [
+        {
+            "viewId": "111684999",
+            "poseId": "111684999",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/28.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "183510718",
+            "poseId": "183510718",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/3.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "240098606",
+            "poseId": "240098606",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/18.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "334008734",
+            "poseId": "334008734",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/34.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "419812921",
+            "poseId": "419812921",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/11.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "463507930",
+            "poseId": "463507930",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/6.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "519724440",
+            "poseId": "519724440",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/21.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "528461464",
+            "poseId": "528461464",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/9.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "548962315",
+            "poseId": "548962315",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/12.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "662602160",
+            "poseId": "662602160",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/2.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "685539783",
+            "poseId": "685539783",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/13.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "875067505",
+            "poseId": "875067505",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/25.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "952362924",
+            "poseId": "952362924",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/35.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "962850120",
+            "poseId": "962850120",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/33.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "972974642",
+            "poseId": "972974642",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/14.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1045860334",
+            "poseId": "1045860334",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/15.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1048924566",
+            "poseId": "1048924566",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/5.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1071765887",
+            "poseId": "1071765887",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/36.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1109454668",
+            "poseId": "1109454668",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/4.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1291447966",
+            "poseId": "1291447966",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/8.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1303392349",
+            "poseId": "1303392349",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/24.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1383573077",
+            "poseId": "1383573077",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/29.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1423801689",
+            "poseId": "1423801689",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/26.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1430235717",
+            "poseId": "1430235717",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/27.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1484429211",
+            "poseId": "1484429211",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/22.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1561737519",
+            "poseId": "1561737519",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/23.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1591168098",
+            "poseId": "1591168098",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/19.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1602002566",
+            "poseId": "1602002566",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/31.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1610549780",
+            "poseId": "1610549780",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/20.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1756679324",
+            "poseId": "1756679324",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/7.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1781977376",
+            "poseId": "1781977376",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/30.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1889243692",
+            "poseId": "1889243692",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/16.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1898082067",
+            "poseId": "1898082067",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/1.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1954765485",
+            "poseId": "1954765485",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/10.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1976591740",
+            "poseId": "1976591740",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/17.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "2089217842",
+            "poseId": "2089217842",
+            "intrinsicId": "325794158",
+            "path": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel\/32.jpg",
+            "width": "1920",
+            "height": "1080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ImageDescription": "Blender:File:D:\\Develop\\Model\\Blender\\Human\\Daria_hair.blend",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "325794158",
+            "width": "1920",
+            "height": "1080",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.5625",
+            "serialNumber": "D:\/Develop\/Model\/Photogrammetry\/AllPhotos\/PhotoModel",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "2317.6450198781713",
+            "principalPoint": [
+                "960",
+                "540"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        }
+    ]
+}

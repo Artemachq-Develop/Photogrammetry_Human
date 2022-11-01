@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "StructureFromMotion_1",
+    "nodeType": "StructureFromMotion",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_incrementalSfM  --input \"D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/CameraInit/0b64dc80eb9e12da8319e899ebfc0b8fed13dc09/cameraInit.sfm\" --featuresFolders \"D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/FeatureExtraction/1c8768372316ef13c65aadb59bed9dd70c492f0d\" --matchesFolders \"D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/FeatureMatching/64dd66d101d8e6c7bda7139486ed8dbca04f47da\" --describerTypes sift --localizerEstimator acransac --observationConstraint Basic --localizerEstimatorMaxIterations 4096 --localizerEstimatorError 0.0 --lockScenePreviouslyReconstructed False --useLocalBA True --localBAGraphDistance 1 --maxNumberOfMatches 0 --minNumberOfMatches 0 --minInputTrackLength 2 --minNumberOfObservationsForTriangulation 2 --minAngleForTriangulation 3.0 --minAngleForLandmark 2.0 --maxReprojectionError 4.0 --minAngleInitialPair 5.0 --maxAngleInitialPair 40.0 --useOnlyMatchesFromInputFolder False --useRigConstraint True --lockAllIntrinsics False --filterTrackForks False --initialPairA \"\" --initialPairB \"\" --interFileExtension .abc --verboseLevel info --output \"D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/StructureFromMotion/cc5d6254f77437b39c0974287c9a767eaeae262e/sfm.abc\" --outputViewsAndPoses \"D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/StructureFromMotion/cc5d6254f77437b39c0974287c9a767eaeae262e/cameras.sfm\" --extraInfoFolder \"D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/StructureFromMotion/cc5d6254f77437b39c0974287c9a767eaeae262e\"",
+    "env": null,
+    "startDateTime": "2022-09-24 06:18:01.316127",
+    "endDateTime": "2022-09-24 06:28:27.059779",
+    "elapsedTime": 625.7436518669128,
+    "hostname": "DESKTOP-0GHHTVP",
+    "sessionUid": "c57a2802-3bb6-11ed-a673-7824af9b9d38",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:10:25.743652"
+}

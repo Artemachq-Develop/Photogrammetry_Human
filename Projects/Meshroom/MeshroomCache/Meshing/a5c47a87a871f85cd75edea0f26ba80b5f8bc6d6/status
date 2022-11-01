@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "Meshing_1",
+    "nodeType": "Meshing",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_meshing  --input \"D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/StructureFromMotion/cc5d6254f77437b39c0974287c9a767eaeae262e/sfm.abc\" --depthMapsFolder \"D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/DepthMapFilter/dc7be0939fd1c2887daa5e25339982c852feb59b\" --estimateSpaceFromSfM True --estimateSpaceMinObservations 3 --estimateSpaceMinObservationAngle 10 --maxInputPoints 50000000 --maxPoints 5000000 --maxPointsPerVoxel 1000000 --minStep 2 --partitioning singleBlock --repartition multiResolution --angleFactor 15.0 --simFactor 15.0 --pixSizeMarginInitCoef 2.0 --pixSizeMarginFinalCoef 4.0 --voteMarginFactor 4.0 --contributeMarginFactor 2.0 --simGaussianSizeInit 10.0 --simGaussianSize 10.0 --minAngleThreshold 1.0 --refineFuse True --helperPointsGridSize 10 --nPixelSizeBehind 4.0 --fullWeight 1.0 --voteFilteringForWeaklySupportedSurfaces True --addLandmarksToTheDensePointCloud False --invertTetrahedronBasedOnNeighborsNbIterations 10 --minSolidAngleRatio 0.2 --nbSolidAngleFilteringIterations 2 --colorizeOutput False --maxNbConnectedHelperPoints 50 --saveRawDensePointCloud False --exportDebugTetrahedralization False --seed 0 --verboseLevel info --outputMesh \"D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/Meshing/a5c47a87a871f85cd75edea0f26ba80b5f8bc6d6/mesh.obj\" --output \"D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/Meshing/a5c47a87a871f85cd75edea0f26ba80b5f8bc6d6/densePointCloud.abc\"",
+    "env": null,
+    "startDateTime": "2022-09-24 06:43:13.251471",
+    "endDateTime": "2022-09-24 06:43:51.424726",
+    "elapsedTime": 38.173255443573,
+    "hostname": "DESKTOP-0GHHTVP",
+    "sessionUid": "c57a2802-3bb6-11ed-a673-7824af9b9d38",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:38.173255"
+}

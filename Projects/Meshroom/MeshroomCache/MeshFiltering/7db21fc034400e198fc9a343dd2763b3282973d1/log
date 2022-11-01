@@ -1,0 +1,51 @@
+Program called with the following parameters:
+ * filterLargeTrianglesFactor = 60
+ * filterTrianglesRatio = 0
+ * filteringIterations = 1
+ * filteringSubset = "all"
+ * inputMesh = "D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/Meshing/a5c47a87a871f85cd75edea0f26ba80b5f8bc6d6/mesh.obj"
+ * keepLargestMeshOnly = 0
+ * outputMesh = "D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/MeshFiltering/7db21fc034400e198fc9a343dd2763b3282973d1/mesh.obj"
+ * smoothingBoundariesNeighbours = 0
+ * smoothingIterations = 5
+ * smoothingLambda = 1
+ * smoothingSubset = "all"
+ * verboseLevel = "info"
+
+[06:43:51.490706][info] Loading mesh from obj file: D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/Meshing/a5c47a87a871f85cd75edea0f26ba80b5f8bc6d6/mesh.obj
+[06:43:51.532692][info] 	- # vertices: 47176
+	- # normals: 0
+	- # uv coordinates: 0
+	- # triangles: 94255
+[06:43:51.674865][info] Mesh loaded: 
+	- #points: 47176
+	- # triangles: 94255
+[06:43:51.675848][info] Mesh file: "D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/Meshing/a5c47a87a871f85cd75edea0f26ba80b5f8bc6d6/mesh.obj" loaded.
+[06:43:51.675848][info] Input mesh: 47176 vertices and 94255 facets.
+[06:43:51.675848][info] Start mesh filtering.
+[06:43:51.675848][info] Mesh filtering: iteration 0
+[06:43:51.675848][info] Filtering large triangles.
+[06:43:51.681845][info] Filtering large triangles, done.
+[06:43:51.682845][info] Mesh filtering done: 47176 vertices and 94255 facets.
+[06:43:51.682845][info] Start mesh smoothing.
+[06:43:51.997743][info] cleanMesh:
+	- # wrong points: 0
+	- # new points: 0
+[06:43:52.052744][info] Optimizing mesh smooth: 
+	- lamda: 1
+	- niters: 5
+[06:43:52.052744][info] Optimizing mesh smooth: iteration 0
+[06:43:52.057724][info] Optimizing mesh smooth: iteration 1
+[06:43:52.063723][info] Optimizing mesh smooth: iteration 2
+[06:43:52.070720][info] Optimizing mesh smooth: iteration 3
+[06:43:52.076718][info] Optimizing mesh smooth: iteration 4
+[06:43:52.083716][info] Mesh smoothing done: 47176 vertices and 94255 facets.
+[06:43:52.083716][info] remove free points from mesh.
+Output mesh: 47176 vertices and 94255 facets.
+[06:43:52.088714][info] Save mesh.
+[06:43:52.088714][info] Save mesh to obj: D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/MeshFiltering/7db21fc034400e198fc9a343dd2763b3282973d1/mesh.obj
+[06:43:52.088714][info] Nb points: 47176
+[06:43:52.088714][info] Nb triangles: 94255
+[06:43:52.195517][info] Save mesh to obj done.
+[06:43:52.195517][info] Mesh file: "D:/Develop/Model/Photogrammetry/Meshroom/ReloadModel/MeshroomCache/MeshFiltering/7db21fc034400e198fc9a343dd2763b3282973d1/mesh.obj" saved.
+[06:43:52.195517][info] Task done in (s): 0.705000
