@@ -1,4 +1,11 @@
 # Photogrammetry_Human
- Human Photogrammetry with lots of program
+Human Photogrammetry with lots of program
 
-https://user-images.githubusercontent.com/22640434/199349497-bf9398d4-ae4f-40a5-9872-b664b4e09062.mp4
+Used programs:
+COLMAP
+Meshroom
+AgisoftPhotoScan
+3DFZephyr
+NGP NERF
+
+https://user-images.githubusercontent.com/22640434/199349678-c2a77745-2712-49cc-8d1c-8456a3f3e77f.mp4
